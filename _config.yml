@@ -96,7 +96,7 @@ text:
       sent:     'Message sent!'
       error:    'Error!'
   thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
+  og_locale: 'ru_RU'
 
 # Build settings
 markdown:     kramdown
@@ -104,7 +104,7 @@ redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data', 'fenced_code_blocks']
 #permalink:    pretty
 permalink:    "/:title/"
-paginate:     5
+paginate:     7
 sass:
   compressed: true
 gems:
